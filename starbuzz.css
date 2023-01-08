@@ -1,0 +1,10 @@
+/* Starbuzz page CSS tags */
+body {
+    background-color: #C4A484;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px 10px 10px 10px;
+    border: 2px dotted black;
+    font-family: sans-serif;
+}
+

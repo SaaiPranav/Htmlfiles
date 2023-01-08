@@ -1,0 +1,20 @@
+/* The CSS Tag */
+body {
+    margin: 20 px;
+    padding: 10px 10px 10px 10px;
+    background-color:darkslategray;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+#btn1 {
+    position: absolute;
+    top: 90%;
+    right: 45%;
+    left: 45%;
+    bottom: 90%
+    border-radius: 30px;
+    margin: 0%;
+    padding: 0%;
+}  

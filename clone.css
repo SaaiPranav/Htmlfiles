@@ -1,0 +1,50 @@
+/* The Css rules */
+
+body{
+        position: absolute;
+        font-family: sans-serif;
+        font-size: large;
+        
+
+    }
+
+h1{
+    margin: 29%;
+    padding-right: 70%;
+    padding-left: 70%;
+    padding-top: 50%;
+    padding-bottom: 50%;
+    
+    line-height: 4rem;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#gmail {
+    margin: 0%;
+    position: relative;
+    padding-left: 0%;
+    padding-right: 50%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    text-align: start;
+}
+#img {
+    margin: 0%;
+    padding-left: 0%;
+    padding-right: 50%;
+
+    text-align: justify;
+}
+
+
+
+
+
+
+button .search{
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+    padding: 50%;
+}

@@ -1,0 +1,39 @@
+/* The css for icons */
+body {
+    position: absolute;
+    background-color: white;
+    left: 50%;
+    right: 50%;
+    padding: 0;
+    text-align: center;
+    display: flex;       
+}
+.icon ul{
+    
+    top: 50%;
+    bottom: 50%;
+    padding: 0;
+    margin: 20%;
+    padding: 0;
+    display: flex;
+}
+.icon  ul li{
+    list-style: none;
+    margin: 0 15px;
+    
+}
+.icon ul li .fa-brands{
+    font-size: 30px;
+    line-height: 60px;
+    color: aqua;
+}
+.icon ul li a{
+    position: relative;
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: beige;
+    text-align: center;
+    box-shadow: 0 15px ;
+}
