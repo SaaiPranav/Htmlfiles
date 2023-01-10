@@ -4,10 +4,10 @@
     border: thick black;
     text-align: center;
     padding: 20px 20px 20px 20px;
+    outline-style: thick ;
+    display: flex;
  }
  h1 {
-    position: end;
-    margin: 30px 30px 30px 30px;
-    text-align: center;
-    
- }
+   display: flex;
+ } 
+ 
