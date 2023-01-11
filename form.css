@@ -1,13 +1,12 @@
 /* The css  for form */
  body{
     background-color: aqua;
-    border: thick black;
-    text-align: center;
-    padding: 20px 20px 20px 20px;
-    outline-style: thick ;
-    display: flex;
+    border-style: solid;
+    text-align: left;
+    padding: 30px 30px 30px 30px;
+    display: flexbox;
  }
  h1 {
-   display: flex;
+   display: flexbox;
  } 
  
